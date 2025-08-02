@@ -16,6 +16,7 @@ namespace C44_G02_OOP03
         DBA
     }
 
+
     // Represents an employee in the company, as required by Question 1.
     public class Employee
     {
